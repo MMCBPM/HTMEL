@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding:0;
+    overflow: visible;
+}
+
+main {
+    display: block;
+    min-height: 100%;
+    background: url(./assets/6320.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-size: 120%
+}
+
+footer {
+    text-align: center;
+}
