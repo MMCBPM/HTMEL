@@ -6,8 +6,6 @@ const IndexPage = () => (
   <div style={{height:'100%'}}>
     <Intro />
     <Profile />
-    <Profile />
-    <Profile />
   </div>
 )
 
