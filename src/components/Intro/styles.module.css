@@ -1,0 +1,24 @@
+.root {
+  background: rebeccapurple;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+}
+
+.heading {
+  font-size: 60px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.subHeading {
+  text-transform: uppercase;
+}

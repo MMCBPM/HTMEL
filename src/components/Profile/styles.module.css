@@ -1,0 +1,42 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.personalStatement {
+  display: flex;
+  flex-direction: row;
+  max-width: 800px;
+  color: #888;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.personalStatement p {
+  flex-grow: 1;
+}
+
+.personalStatement img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.skills {
+  width: 800px;
+  margin-bottom: 100px;
+}
