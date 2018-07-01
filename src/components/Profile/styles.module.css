@@ -38,5 +38,10 @@
 
 .skills {
   width: 800px;
+  margin-bottom: 50px;
+}
+
+.software {
+  width: 800px;
   margin-bottom: 100px;
 }
