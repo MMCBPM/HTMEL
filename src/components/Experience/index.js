@@ -10,7 +10,7 @@ export default () => (
         title="Software Consulting"
         start="2015"
         end="2017">
-        <h4> Head, Sales & Marketing </h4>
+        <h4> Head, Sales &amp; Marketing </h4>
         <ul>
           <li>Introduced and led onboarding and training new account managers for CMS, database and email
         marketing automation software.</li>
@@ -29,7 +29,7 @@ export default () => (
           <li>Led email marketing strategy development with B2C clients, advising on content development,
         A/B testing, data analysis and understanding the impact of data on digital marketing strategies.</li>
           <li>Introduced marketing advisory and support for key accounts; regular meetings to support clients'
-        needs on best practices for email marketing, responsive web design, targeted and triggered marketing
+        needs on best practices for email marketing, responsive web design, targeted &amp; triggered marketing
         communications and compliance to brand voice.</li>
 
         </ul>
@@ -50,7 +50,7 @@ export default () => (
           <li>Representative at 11th Malaysia Plan Steering Committee meeting to discuss opportunities in applications of technology across industries for economic development. </li>
           <li>Revised branding direction and developed packaging for software products, marketing
         materials including corporate gifts, and guidelines for events booth displays and conferences.</li>
-          <li>Initiated & led specialized training programs in Asia Pac to upskill customers and partners.
+          <li>Initiated &amp; led specialized training programs in Asia Pac to upskill customers and partners.
           Training materials were adopted by HQ as new benchmark training program.</li>
           <li>Refined proprietary CRM system reporting features for better understanding of marketing performance. </li>
         </ul>
@@ -73,10 +73,10 @@ export default () => (
       </Company>
 
       <Company
-        title="Food & Beverage Group"
+        title="Food &amp; Beverage Group"
         start="2006"
         end="2011">
-        <h4>Group PR & Marketing Manager</h4>
+        <h4>Group PR &amp; Marketing Manager</h4>
         <ul>
           <li>Introduced email marketing automation software use and led email marketing campaigns based on best practices.</li>
           <li>Introduced, developed and led customer loyalty program and partnership marketing with leading lifestyle and beverage brands.</li>
@@ -95,7 +95,7 @@ export default () => (
         title="Management Consulting"
         start="2004"
         end="2006">
-        <h4>Sales & Marketing Executive</h4>
+        <h4>Sales &amp; Marketing Executive</h4>
         <ul>
           <li>Developed and initiaed email marketing campaigns. Managed online and email lead distribution. </li>
           <li>Designed and developed company Corporate Identity, training and guide materials.</li>
