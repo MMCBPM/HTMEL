@@ -91,6 +91,19 @@ export default () => (
         </ul>
       </Company>
 
+      <Company
+        title="Management Consulting"
+        start="2004"
+        end="2006">
+        <h4>Sales & Marketing Executive</h4>
+        <ul>
+          <li>Developed and initiaed email marketing campaigns. Managed online and email lead distribution. </li>
+          <li>Designed and developed company Corporate Identity, training and guide materials.</li>
+          <li>Top sales executive with largest deal procured at $50,000. Total sales contribution at $125,000.</li>
+
+        </ul>
+
+      </Company>
     </div>
   </div>
 );
