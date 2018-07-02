@@ -14,20 +14,21 @@ export default () => (
         <ul>
           <li>Introduced and led onboarding and training new account managers for CMS, database and email
         marketing automation software.</li>
-          <li>Refined SLAs for customer service support team based on key accounts requirements and
-        coached support team on response requirements.</li>
+          <li>Strategized revamp of corporate website for international hypermarket client; increased value
+            of development for client by including monetization features which would amortize website development
+            investment.</li>
           <li>Created brand voice and refined UI/UX, User Manual and web/marketing content for a SaaS
           cloud based transactional email product launched for the ASEAN region, post MVP.</li>
-          <li>Expanded services portfolio for hospitality clients by introduction of additional services.</li>
           <li>Increased project value by $20,000 for banking client by introduction of retainer servicess</li>
           <li>Contribution to new deals worth USD $650,000.</li>
         </ul>
         <h4> Senior Key Account Manager </h4>
         <ul>
-          <li>Led development project of loyalty card registration and verification interface for international
-          hypermarket chain, mapping business process and stakeholder requirements to technical functions.</li>
+          <li>Led development project for loyalty card registration &amp; verification interface for international
+          hypermarket chain. This successfully resolved the customers' issue with fraudulent cards usage &amp; transactions.</li>
           <li>Led email marketing strategy development with B2C clients, advising on content development,
-        A/B testing, data analysis and understanding the impact of data on digital marketing strategies.</li>
+        A/B testing, data analysis and understanding the impact of data on digital marketing strategies. Doubled performance of
+        open rates, CTRs for clients. </li>
           <li>Introduced marketing advisory and support for key accounts; regular meetings to support clients'
         needs on best practices for email marketing, responsive web design, targeted &amp; triggered marketing
         communications and compliance to brand voice.</li>
@@ -63,12 +64,11 @@ export default () => (
         end="2013">
         <h4>Marketing Manager</h4>
         <ul>
-          <li>Led and initiated customer onboarding and loyalty program based on my own qualitative research
-          of previous and current brand car owners.</li>
           <li>Project managed three major car lauching events, 30 major marketing campaigns and up to 60 events.</li>
-          <li>Introduced email marketing automation software use and led email marketing campaigns based on best practices.</li>
-          <li>Introduced marketing KPI concepts and decision making based on quantitative data.</li>
-          <li>Introduced long-term customer retention strategies and programs for better return sales.</li>
+          <li>Introduced marketing KPI concepts and decision making based on quantitative data. Improved social
+            media engagement by 200% in first year.</li>
+          <li>Improved long-term customer retention by initiating and leading customer onboarding, referral &amp; loyalty programs
+            for better return sales.</li>
         </ul>
       </Company>
 

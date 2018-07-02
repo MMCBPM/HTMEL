@@ -1,5 +1,4 @@
 .root {
-    background-color: blue;
     display: flex;
     width: 100%;
 }
@@ -14,7 +13,6 @@ h4 {
 }
 
 .content {
-    background-color: yellow;
     flex: 1;
 }
 
