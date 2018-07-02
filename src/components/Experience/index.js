@@ -44,9 +44,9 @@ export default () => (
         end="2015">
         <h4>Marketing Manager, Asia Pacific</h4>
         <ul>
-          <li>Introduced email marketing automation software use and led email marketing campaigns based on best practices.</li>
-          <li>Introduced experiential marketing concepts and led application in customer touch points. </li>
-          <li>Introduced market segmentation and persona marketing concepts in developing regional marketing and account-based marketing strategies. </li>
+          <li>Introduced email marketing automation software, experiental marketing practices, 
+            market segmentation &amp; persona marketing concepts in regional marketing and 
+            account-based marketing.</li>
           <li>Led and initiated team performance rewards system for Sales Team, supported by Marketing for enhancing Team performance.</li>
           <li>Representative at 11th Malaysia Plan Steering Committee meeting to discuss opportunities in applications of technology across industries for economic development. </li>
           <li>Revised branding direction and developed packaging for software products, marketing
