@@ -25,18 +25,20 @@
   width: 100%;
   color: #888;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .personalStatement p {
   flex-grow: 1;
+  margin: 0;
 }
 
 .personalStatement img {
   border-radius: 50%;
   width: 100px;
   height: 100px;
- }
+  margin-bottom: 40px;
+}
 
 .skills {
   width: 100%;
@@ -50,5 +52,6 @@
 
  .personalStatement img {
     margin-right: 20px;
-  } 
+    margin-bottom: 0;
+  }
 }

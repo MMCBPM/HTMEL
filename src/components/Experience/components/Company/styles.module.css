@@ -1,15 +1,16 @@
 .root {
     display: flex;
     width: 100%;
+    flex-direction: column;
 }
 
-h4 {
-    margin: auto;
-    font-size: 18px;
+.details h4 {
+    margin:0;
 }
 
 .details {
     width: 200px;
+    margin-bottom: 10px;
 }
 
 .content {
@@ -22,4 +23,15 @@ h4 {
 
 .content h4 {
  margin-bottom: 20px;
+ font-weight: normal;
+}
+
+@media (min-width:600px) {
+    .root {
+        flex-direction: row;
+    }
+
+    .content h4 {
+        font-weight: bold;
+    }
 }

@@ -20,9 +20,12 @@
   text-transform: uppercase;
   margin: 0;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .subHeading {
   font-family: 'Fredericka the Great', sans serif;
   text-transform: uppercase;
+  text-align: center;
+  
 }

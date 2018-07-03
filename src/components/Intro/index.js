@@ -8,7 +8,7 @@ export default () => (
         Hi, I'm Melissa
       </h1>
       <div className={styles.subHeading}>
-        Email Marketing | Digital Marketing | Strategy
+        Email Marketing | Strategy | Digital Marketing
       </div>
     </div>
   </div>
