@@ -1,5 +1,5 @@
 # melissachong.com
-The source files for melisschong.com
+The source files for https://www.melissachong.com
 
 To develop make sure dependencies are installed (npm install)
 
