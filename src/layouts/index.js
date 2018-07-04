@@ -10,7 +10,7 @@ const Layout = ({ children }) => (
       title="Melissa Chong"
       meta={[
         { name: 'description', content: 'Melissa Chong' },
-        { name: 'keywords', content: 'Melissa Chong, resume, cv' },
+        { name: 'keywords', content: 'Melissa Chong, resume, cv, marketing, email marketing, SEO, digital marketing' },
       ]}
     />
     {children()}

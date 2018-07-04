@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 export default ({ title, children, start, end }) => (
     <div className={styles.root}>
         <div className={styles.details}>
-            <h4>{title}</h4>
+            <h3>{title}</h3>
             <span>{start} - {end}</span>
         </div>
         <div className={styles.content}>

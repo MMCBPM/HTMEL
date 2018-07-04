@@ -10,10 +10,10 @@ export default () => (
         title="Software Consulting"
         start="2015"
         end="2017">
-        <h4> Head, Sales &amp; Marketing </h4>
+        <h3> Head, Sales &amp; Marketing </h3>
         <ul>
-          <li>Introduced and led onboarding and training new account managers for CMS, database and email
-        marketing automation software.</li>
+          <li>Introduced and led on-boarding and training of new account managers in CMS, database and 
+            email marketing automation software.</li>
           <li>Strategized revamp of corporate website for international hypermarket client; increased value
             of development for client by including monetization features which would amortize website development
             investment.</li>
@@ -22,7 +22,7 @@ export default () => (
           <li>Increased project value by $20,000 for banking client by introduction of retainer servicess</li>
           <li>Contribution to new deals worth USD $650,000.</li>
         </ul>
-        <h4> Senior Key Account Manager </h4>
+        <h3> Senior Key Account Manager </h3>
         <ul>
           <li>Led development project for loyalty card registration &amp; verification interface for international
           hypermarket chain. This successfully resolved the customers' issue with fraudulent cards usage &amp; transactions.</li>
@@ -42,9 +42,9 @@ export default () => (
         title="Medical Technology"
         start="2013"
         end="2015">
-        <h4>Marketing Manager, Asia Pacific</h4>
+        <h3>Marketing Manager, Asia Pacific</h3>
         <ul>
-          <li>Introduced email marketing automation software, experiental marketing practices, 
+          <li>Introduced email marketing automation software, experiential marketing practices, 
             market segmentation &amp; persona marketing concepts in regional marketing and 
             account-based marketing.</li>
           <li>Led and initiated team performance rewards system for Sales Team, supported by Marketing for enhancing Team performance.</li>
@@ -62,7 +62,7 @@ export default () => (
         title="Luxury Automotive"
         start="2011"
         end="2013">
-        <h4>Marketing Manager</h4>
+        <h3>Marketing Manager</h3>
         <ul>
           <li>Project managed three major car lauching events, 30 major marketing campaigns and up to 60 events.</li>
           <li>Introduced marketing KPI concepts and decision making based on quantitative data. Improved social
@@ -76,7 +76,7 @@ export default () => (
         title="Food &amp; Beverage Group"
         start="2006"
         end="2011">
-        <h4>Group PR &amp; Marketing Manager</h4>
+        <h3>Group PR &amp; Marketing Manager</h3>
         <ul>
           <li>Introduced email marketing automation software use and led email marketing campaigns based on best practices.</li>
           <li>Introduced, developed and led customer loyalty program and partnership marketing with leading lifestyle and beverage brands.</li>
@@ -95,9 +95,9 @@ export default () => (
         title="Management Consulting"
         start="2004"
         end="2006">
-        <h4>Sales &amp; Marketing Executive</h4>
+        <h3>Sales &amp; Marketing Executive</h3>
         <ul>
-          <li>Developed and initiaed email marketing campaigns. Managed online and email lead distribution. </li>
+          <li>Developed and initiated email marketing campaigns. Managed online and email lead distribution. </li>
           <li>Designed and developed company Corporate Identity, training and guide materials.</li>
           <li>Top sales executive with largest deal procured at $50,000. Total sales contribution at $125,000.</li>
 

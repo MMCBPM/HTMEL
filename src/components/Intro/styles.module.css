@@ -1,6 +1,7 @@
 .root {
   background: rebeccapurple;
   height: 100%;
+  padding: 0 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,21 +12,40 @@
   flex-direction: column;
   align-items: center;
   color: #fff;
-  }
+}
 
 .heading {
-  font-family: 'Rozha One', regular;
   font-weight: normal;
   font-size: 60px;
   text-transform: uppercase;
   margin: 0;
   margin-bottom: 20px;
   text-align: center;
+  color: #fff;
+  line-height: 60px;
 }
 
 .subHeading {
   font-family: 'Fredericka the Great', sans serif;
   text-transform: uppercase;
   text-align: center;
-  
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width:600px) {
+  .subHeading {
+    padding: 0 10px;
+    flex-direction: row;
+  }
+
+  .subHeading span {
+    padding: 0 10px;
+    line-height: 18px;
+    border-right: 1px solid white;
+  }
+
+  .subHeading span:last-child {
+    border-right: none;
+  }
 }
